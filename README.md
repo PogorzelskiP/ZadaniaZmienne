@@ -1,1 +1,1 @@
-# ZadaniaZmienne
+Zadania ze zmiennymi
