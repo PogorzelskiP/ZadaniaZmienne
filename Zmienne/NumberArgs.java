@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class NumberArgs {
-    //argumenty będą przekazane do tablicy args
+    //argumenty będą przekazane do tablicy args  
     public static void main(String[] args) {
         if(args.length == 0) {
             System.out.println("Brak argumentów");
