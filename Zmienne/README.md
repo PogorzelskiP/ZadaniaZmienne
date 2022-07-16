@@ -1,1 +1,1 @@
-#Repozytorium z projektami
+Zadania ze zmiennymi
