@@ -1,1 +1,1 @@
-Zadania ze zmiennymi
+Zadania java
